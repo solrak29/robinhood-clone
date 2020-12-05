@@ -2,4 +2,32 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    font-size: 12px;
+    margin: 6px;
+}
+
+.StockGraph {
+    width: 20%;
+}
+
+.StockAndPos {
+    text-align: left;
+}
+
+.StockAndPos p {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.StockPrice p {
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+.percent {
+    color: green;
+}
+
+.StockName {
+    font-weight: bold;
 }

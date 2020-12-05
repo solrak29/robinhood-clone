@@ -4,11 +4,13 @@ import './StockStats.css'
 
 export default function StockStats() {
     return (
-        <div className='StockStats'>
-            <div className='StockStats-container'>
-                < StockList header='Stock' />
-                < StockList header='List' />
-            </div>
+        <div className='StockStatsContainer'>
+            < StockList header='Stock'
+                        stocks={['AAPL', 'MSFT', 'TSLA']}
+                        shares={[200,50,100]} />
+            < StockList header='List'
+                        stocks={['AA']}
+                        shares={[-1]} />
         </div>
     )
 }

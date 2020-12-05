@@ -1,11 +1,5 @@
-.StockStats {
+.StockStatsContainer {
     flex: 0.3;
     height: 100px;
-    border-radius: 5%;
-    border: 1px solid;
-}
-
-.StockStats-container {
-    border: 1px solid;
-    border-radius: 5%;
+    margin-left: 10px;
 }
