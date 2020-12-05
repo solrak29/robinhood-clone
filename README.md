@@ -1,5 +1,5 @@
 # Current State of the Clone
-![tbd](https://https://github.com/solrak29/robinhood-clone/blob/master/public/currentstate.PNG
+![tbd](https://https://github.com/solrak29/robinhood-clone/blob/master/public/currentstate.PNG)
 
 # Getting Started with Create React App
 
