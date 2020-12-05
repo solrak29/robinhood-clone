@@ -20,6 +20,8 @@ function Header() {
           <a href="#" >FreeStocks</a>
           <a href="#" >Portfolios</a>
           <a href="#" >Cash</a>
+          <a href="#" >Messages</a>
+          <a href="#" >Account</a>
       </div>
     </div>
   );

@@ -1,8 +1,14 @@
+import Dashboard from './Dashboard'
+import StockStats from './StockStats'
+import './Main.css'
 
 function Main() {
   return (
     <div className="Main">
-        <p>I am the Main</p>
+      <div className="Main-container">
+          <Dashboard />
+          <StockStats />
+      </div>
     </div>
   );
 }

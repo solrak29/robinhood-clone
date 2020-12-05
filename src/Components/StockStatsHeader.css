@@ -1,0 +1,8 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 4%;
+    border: 1px solid grey;
+    font-weight: bolder;
+}
